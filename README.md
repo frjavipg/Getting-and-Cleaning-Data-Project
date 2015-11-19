@@ -21,4 +21,4 @@ You should create one R script called run_analysis.R that does the following.
 7. Create the final test set by merging the xTest, yTest and subjectTest data.
 8. Create the final  dataset by merging the DataTrain and DataTest data.
 9. Uses descriptive activity names to name the activities in the data set.
-10.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+10. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
